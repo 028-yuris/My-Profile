@@ -71,5 +71,5 @@ Yuris Ikrar Rabbani (Yuris) — 2024520028 — Pamekasan, Jawa Timur
 
 <p align="center">
   Dibuat dengan ♥ oleh 028_Yuris <br>
-  <a href="#">Tautan Video</a> | <a href="https://github.com/028_Yuris">Tautan Repositori</a>
+  <a href="https://drive.google.com/file/d/13Bq9gHx4cE9NQ7H7UnFuvR82MZi7UZEq/view?usp=sharing">Tautan Video</a> | <a href="https://github.com/028_Yuris">Tautan Repositori</a>
 </p>
